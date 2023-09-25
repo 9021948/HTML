@@ -23,6 +23,7 @@ body {
     margin: auto;
     background: #01880f;
     justify-content: space-between;
+    margin: 0;
   }
   nav ul {
     display: flex;
