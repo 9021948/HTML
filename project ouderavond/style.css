@@ -1,14 +1,8 @@
-/*
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  size: 0;
 }
-
-html {
-  font-size: 62.5%;
-}
-*/
 body {
     font-family: "Goldman", cursive;
   }
@@ -16,7 +10,7 @@ body {
   nav {
     display: flex;
     width: 100%;
-    padding: 2rem;
+    padding: 1%;
     min-height: 10vh;
     align-items: center;
     flex-wrap: wrap;
@@ -24,6 +18,7 @@ body {
     background: #01880f;
     justify-content: space-between;
     margin: 0;
+    justify-content: flex-start;
   }
   nav ul {
     display: flex;
@@ -31,7 +26,6 @@ body {
     list-style-type: none;
   }
   nav li {
-    
     font-size: 2.5rem;
     padding: 0 4rem 0 4rem;
   }
@@ -39,22 +33,20 @@ body {
     color: white;
     text-decoration: none;
   }
-  nav img {
-    width: 20%;
-    
-    
-    
-  }
   
-  /* New Code */
-  .tekst
+    
+ img {
+  display: flex;
+  -ms-flex-align: center;
+
+ }
   
   {
   font-size: 24px;  
   font-family: Verdana;
   list-style-type: circle;
-  
   }
+  
   
   .tekst2
   
