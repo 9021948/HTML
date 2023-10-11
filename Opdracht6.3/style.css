@@ -1,0 +1,50 @@
+*{
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+ 
+
+}
+
+html {
+
+   font-size: 62.5%;
+
+ }
+
+ 
+
+.flex-container{
+
+   display:flex;
+
+   flex-direction: row;
+
+   color: blue;
+
+   font-size: large;
+
+   font-weight: bold;
+
+   justify-content: space-between; 
+
+   height: 40px;
+
+   
+
+   text-align: center;
+
+}
+
+ .box1 {
+
+ }
+
+ .logo, .login{
+width: 25%;
+ }
+ 
