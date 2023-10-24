@@ -1,6 +1,5 @@
 
-
-  body{
+ body{
     margin: 0;
     background-color: gray;
     display: flex;
@@ -344,7 +343,9 @@
     text-align: center;
   }
 
-  @media screen and (max-width: 768px) and (min-width: 576px) {
+  @media screen and (max-width: 768px) and (min-width: 576px) 
+  
+  {
     body{
       margin: 0;
       background-color: gray;
