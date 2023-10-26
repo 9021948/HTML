@@ -102,7 +102,7 @@ nav
 /* Locations CSS */
 #Locations
 {
-    background-image: url("/img/landing-page.jpg");
+    background-image: url("./img/landing-page.jpg");
     background-repeat: no-repeat;
     background-size: 100vw;
     background-position: 0px -12vh;
@@ -123,7 +123,7 @@ nav
 /* Benefits CSS */
 #Benefits
 {
-    background-image: url("/img/new-york-page.png");
+    background-image: url("./img/new-york-page.png");
     background-repeat: no-repeat;
     background-size: 100vw;
     background-position: 0px -20vh;
@@ -182,7 +182,7 @@ nav
 /* Contact CSS */
 #Contact
 {
-    background-image: url("/img/contact-mountain.png");
+    background-image: url("./img/contact-mountain.png");
     background-repeat: no-repeat;
     background-size: 100vw;
     background-color: #9a9a9a;
