@@ -1,4 +1,4 @@
-let Budget = 100;
+let Budget = 100;https://chat.openai.com/
 let product = prompt("Vul de kosten van uw product in", 0);
 
 let ResultP = document.getElementById("ResultParagraph");
